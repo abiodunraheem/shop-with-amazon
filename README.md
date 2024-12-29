@@ -1,12 +1,12 @@
-# awesome-books-app
+# shop-wwith-amazon
 
 
-In this project, we set up awesome books repository. our goal here was to build a a book application with html javascript and css.
+This is an online store that enable users filter through a range a products, and select any product of their choice and place on a cart in other to make an order.
 
 
 ## :red_circle: Live Demo Link
 
-[View Live Demo](https://abiodunraheem.github.io/Awesome-Book-ES6/)
+[View Live Demo](https://abiodunraheem.github.io/)
 
 
 
@@ -16,11 +16,10 @@ In this project, we set up awesome books repository. our goal here was to build 
 - css
 - javascript
 - bootstrap
-- scss
 - linters
 
 ## Getting Started
-To get a local copy, open and running follow these simple example steps:
+To get a local copy, open and running follow these simple steps:
 ### Setup
 - Download or Clone Repository.
 - In case you downloaded repository Extract ZIP Folder.
@@ -43,25 +42,18 @@ Project will open and running to your Browser.
 
 
 
-## Authors 1
+## Author
 
 👤 **Abiodun Raheem**
 
 - GitHub: [@abiodunraheem](https://github.com/abiodunraheem)
-
-## Authors 2
-
-👤 **brian nyachae**
-
-- GitHub: [@Bria222](https://github.com/Bria222)
-
 
 
 ## 🤝 :raised_hand: :raised_hand: Contributions
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abiodunraheem/awesome-book-es6/).
+Feel free to check the [issues page](https://github.com/abiodunraheem/).
 
 
 
